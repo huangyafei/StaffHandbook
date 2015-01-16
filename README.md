@@ -1,4 +1,4 @@
-GitBook Example
+Staff Handbook
 =======
 
-Welcome in your GitBook!
+ 这是一部由 [Huang Yafei](http://huangyafei.com) 编写的员工手册。
