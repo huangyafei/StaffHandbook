@@ -1,7 +1,7 @@
 Staff Handbook
 =======
 
- 这是一部由 [Huang Yafei](http://huangyafei.com) 编写的员工手册。最初的初衷是希望用在 [ruanbeibao.com](ruanbeibao.com) 创业团队中团队内部成员的分享及新员工培训上，尽管如此，本书依然适用于大多数中小型互联网创业团队的新人入门读物及新员工入职培训中。
+ 这是一部由 [Huang Yafei](http://huangyafei.com) 编写的员工手册。最初的初衷是希望用在 [ruanbeibao.com](http://ruanbeibao.com) 创业团队中团队内部成员的分享及新员工培训上，尽管如此，本书依然适用于大多数中小型互联网创业团队的新人入门读物及新员工入职培训中。
  
  这部手册采用以 [Gitbook](http://gitbook.com) 为基础的分布式写作方式，如果感兴趣并希望做出贡献，任何人都可以参与进本书的编写，你可以从本书的  [Github 页面](https://github.com/huangyafei/staffhandbook) Fork 此项目并积极 Pull Request，我会及时把有价值的内容合并进来。
  
