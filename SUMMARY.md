@@ -5,4 +5,5 @@
 	* [Copywriting](copywriting.md) 	
 * [Tools](tools.md)
 	* [Markdown](markdown.md)
+	* [Evernote](evernote.md)
 	* [Email](email.md)
