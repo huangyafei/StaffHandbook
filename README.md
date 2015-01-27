@@ -11,8 +11,7 @@ Staff Handbook
  
 除此之外，本书所有内容均采用 [Markdown](http://
 huangyafei.gitbooks.io/staffhandbook/content/
-markdown.html) 语言撰写，稍后我也会详细的介绍这款所有互联网从业者
-必备的高效率文档及写作标记语言。
+markdown.html) 语言撰写，稍后我也会详细的介绍这款所有互联网从业者必备的高效率文档及写作标记语言。
  
 ##联系方式
   
