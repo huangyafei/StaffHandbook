@@ -154,6 +154,8 @@
 
 > 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
+> 苹果在第三季度发布了最新的 iPhone 产品，命名为 iPhone 6 和 iPhone 6 Plus，暂时没有发布新的 iPad 和新的 MacBook。
+
 错误：
 
 > 使用 github 登录
@@ -162,19 +164,18 @@
 
 > 使用 Github 登录
 
-> 使用 gitHub 登录
-
-> 使用 gｲんĤЦ8 登录
-
 > 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
 
 > 我们的客户有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
 
 > 我们的客户有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
 
-> 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
+> 苹果在第三季度发布了最新的 iphone 产品，命名为 iphone 6 和 iphone 6 plus，暂时没有发布新的 ipad 和新的 macbook。
 
-> 我们的客户有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
+> 苹果在第三季度发布了最新的 IPHONE 产品，命名为 IPHONE 6 和 IPHONE 6 PLUS，暂时没有发布新的 IPAD 和新的 MACBOOK。
+
+> 苹果在第三季度发布了最新的 Iphone 产品，命名为 Iphone 6 和 Iphone 6 plus，暂时没有发布新的 Ipad 和新的 Macbook。
+
 
 ## 争议
 
