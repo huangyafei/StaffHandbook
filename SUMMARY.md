@@ -1,12 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-* [职业](professional)
-* [规范](standard.md)
+* [职业素养](professional)
+	* [个人和组织](individuals and organizations.md)
+	* [积极和负责](active and responsible.md)
+	* [认真](serious.md)
+* [团队规范](standard.md)
 	* [文案排版规范](copywriting.md)
 	* [文档管理规范](documents.md)
 	* [Tower 使用规范](tower.md) 
-* [工具](tools.md)
+* [工具技巧](tools.md)
 	* [Markdown](markdown.md)
 	* [Evernote](evernote.md)
 	* [XMind](xmind.md)
