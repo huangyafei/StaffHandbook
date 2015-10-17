@@ -10,6 +10,7 @@
 	* [文档管理规范](documents.md)
 	* [Tower 使用规范](tower.md) 
 * [工具技巧](tools.md)
+	* [Inbox Zero](inbox zero.md) 
 	* [Markdown](markdown.md)
 	* [Evernote](evernote.md)
 	* [XMind](xmind.md)
